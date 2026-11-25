@@ -1,2 +1,1 @@
-# jit87074-web.github.io
-Personal Website
+# jit87074-web.personal
